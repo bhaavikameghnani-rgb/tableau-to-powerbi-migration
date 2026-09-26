@@ -196,3 +196,6 @@ variable-naming-style = "snake_case"
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+package-mode = false
