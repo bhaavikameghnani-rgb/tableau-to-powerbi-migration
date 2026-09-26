@@ -275,3 +275,8 @@ tests/fixtures/live/
 # issue #322 records. They also trip the ruff gate, which scans tests/.
 tests/_mutation_plugin.py
 tests/_mutation_outcomes.json
+# Local Tableau/Power BI validation demo outputs
+HR Analytics Dashboard.Report/
+migration-spec.json
+powerbi-visuals.json
+validation.json
