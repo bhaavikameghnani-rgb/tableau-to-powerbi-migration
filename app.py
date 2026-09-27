@@ -70,7 +70,7 @@ st.markdown(
 # =========================================================
 
 st.markdown(
-    '<div class="main-title">Tableau → Power BI Migration Validator</div>',
+    '<div class="main-title">Tableau → Power BI Validator</div>',
     unsafe_allow_html=True,
 )
 
@@ -216,7 +216,7 @@ if st.button(
     # Step 1 — Parse Tableau
     # =====================================================
 
-    st.subheader("Migration Process")
+    st.subheader("Validation Process")
 
     progress = st.progress(0)
 
